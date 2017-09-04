@@ -5,6 +5,8 @@ This is for the VMWorld Hackathon Europe 2017 Team 5 for creating additional Pow
 This should be made easier now that the vSAN API has been released and there is a new vSAN View for PowerCLI! More from William Lam (@lamw) here:
 http://www.virtuallyghetto.com/2017/04/getting-started-wthe-new-powercli-6-5-1-get-vsanview-cmdlet.html
 
+
+
 Get-VSANObjectHealth
 - Obtains VSAN Health status of objects in VSAN Cluster. 
 - Has choice of returning list of objects states, or a boolean result for object health
